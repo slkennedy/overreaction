@@ -1,9 +1,10 @@
 {
   "name": "my-app",
-  "homepage": "http://slkennedy.github.io/overreaction",
+  "homepage": "https://slkennedy.github.io/overreaction/",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "gh-pages-deploy": "0.4.2",
     "react-scripts": "0.4.1"
   },
   "dependencies": {
@@ -26,6 +27,6 @@
       "build"
     ],
     "post": [],
-    "noprompt": false  
+    "noprompt": false
   }
 }
